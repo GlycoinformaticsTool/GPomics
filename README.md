@@ -1,1 +1,1 @@
-GPomics enables precise N-glycomics and glycopeoteomics simultaneously.
+The human N-glycan database is curated from MS1 and MS2 data.
