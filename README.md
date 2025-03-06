@@ -1,1 +1,1 @@
-The human N-glycan database is curated from MS1 and MS2 data.
+The human N-glycan database, Hs.NGlycoDB, is curated based on MS1 and MS2 data.
